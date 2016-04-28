@@ -1,0 +1,20 @@
+{>layout/}
+{<body}
+<h3>Contato</h3>
+<p>Digite os dados para entrar em contato</p>
+<div>
+  <label>Nome</label><br />
+  <input type="text" placeholder="Seu nome"><br />
+</div>
+<div>
+  <label>E-mail</label><br />
+  <input type="text" placeholder="Seu e-mail"><br />
+</div>
+<div>
+  <labe>Mensagem</labe><br />
+  <textarea placeholder="Uma mensagem"></textarea>
+</div>
+<div>
+  <button>Enviar</button>
+</div>
+{/body}
